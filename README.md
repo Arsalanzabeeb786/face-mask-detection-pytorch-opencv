@@ -1,4 +1,7 @@
-# Face Mask Detection with MobileNetV3 using pytorch and openCV
+# Face Mask Detection with MobileNetV3 using PyTorch and OpenCV
+
+![Without Mask](https://github.com/Arsalanzabeeb786/face-mask-detection-pytorch-opencv/blob/main/nomask.png)
+![With Mask](https://github.com/Arsalanzabeeb786/face-mask-detection-pytorch-opencv/blob/main/withmask.png)
 
 This repository contains code for training a face mask detection model using MobileNetV3. It includes modularized scripts and Jupyter notebooks for training, testing, and live inference.
 
@@ -29,8 +32,8 @@ FACE_MASK_MOBILENET_LARGE
 ### 1. Setup
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd FACE_MASK_MOBILENET_LARGE
+   git clone [<repository-url>](https://github.com/Arsalanzabeeb786/face-mask-detection-pytorch-opencv.git)
+   cd face-mask-detection-pytorch-opencv
    ```
 
 2. **Install dependencies**:
@@ -80,4 +83,4 @@ python src/live_inference_single_face.py
 python src/live_inference_multiple_faces.py
 ```
 
-
+.

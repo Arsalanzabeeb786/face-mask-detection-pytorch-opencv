@@ -8,7 +8,7 @@ This repository contains code for training a face mask detection model using Mob
 ## Repository Structure
 
 ```
-FACE_MASK_MOBILENET_LARGE
+face-mask-detection-pytorch-opencv
 ├── artifacts                  # Directory to save trained model checkpoints
 ├── input                      # Directory for dataset
 │   ├── train                  # Training dataset
@@ -32,7 +32,7 @@ FACE_MASK_MOBILENET_LARGE
 ### 1. Setup
 1. **Clone the repository**:
    ```bash
-   git clone [<repository-url>](https://github.com/Arsalanzabeeb786/face-mask-detection-pytorch-opencv.git)
+   git clone https://github.com/Arsalanzabeeb786/face-mask-detection-pytorch-opencv.git
    cd face-mask-detection-pytorch-opencv
    ```
 
